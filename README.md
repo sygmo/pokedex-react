@@ -1,3 +1,5 @@
+![screenshot](public/screenshot.png)
+
 # Pokedex Project
 
 This project was made based on Colt Steele's Udemy course [The Modern React Bootcamp](https://www.udemy.com/course/modern-react-bootcamp/). It is a basic React app that compares two unique hands of Pokemon cards and calculates which is the winning hand.
